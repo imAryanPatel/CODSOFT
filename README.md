@@ -30,13 +30,20 @@ A fun game where:
 - Random choices determine the outcome
 - Follows classic rules: Stone > Scissors, Scissors > Paper, Paper > Stone
 
+### 📇 Task 5: Contact Book Application
+A Python-based contact management app that allows users to:
+- Add new contacts (name, phone, email, address)
+- View all saved contacts
+- Search for a contact by name or phone number
+- Update existing contact details
+- Delete contacts
+- Includes a simple user interface for smooth interaction
+
 ---
 
-📌 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/aryan-patel-441922273/
-
-💻 GitHub: https://github.com/imAryanPatel
-
-📧 Email: ap028803@gmail.com
+📌 Connect with Me  
+🔗 LinkedIn: [Aryan Patel](https://www.linkedin.com/in/aryan-patel-441922273/)  
+💻 GitHub: [imAryanPatel](https://github.com/imAryanPatel)  
+📧 Email: ap028803@gmail.com  
 
 Thank you, CodSoft, for the learning opportunity! 🙌
